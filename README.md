@@ -1,4 +1,5 @@
 # Metodo_XP
+Nomes:Matheus Stachera e Murilo de Vrij
 Engenharia de Software   BCC-2        
 
 Relato do Projeto de Investimentos: Composto por uma equipe pequena de duas pessoas  aos quais apresentaram conhecimento especializado  para gerir todo o projeto de maneira ao qual apresente qualidade e velocidade tem como inicialização a primeira conversa com o cliente via presencial  e foi pedido algumas “estórias do cliente” para levarmos como parâmetro.
